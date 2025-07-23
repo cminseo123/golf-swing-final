@@ -1,0 +1,10 @@
+# .streamlit/packages.toml
+python = "3.11"
+
+[packages]
+"streamlit"
+"opencv-python-headless"
+"mediapipe"
+"numpy"
+"matplotlib"
+"moviepy"
